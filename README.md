@@ -1,2 +1,4 @@
-# moacir-melo-publica-oes
-Artigos: pontos de vista sobre o que vejo.
+Repositório de automação — versão de testes
+> Teste de automação
+> Teste de automação
+> Teste após habilitar Read and Write
